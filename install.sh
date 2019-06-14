@@ -88,4 +88,5 @@ wget https://raw.githubusercontent.com/Tyler-Hong/Ubuntu-18.04-Shiny-server-Inst
 
 # You still need the ui.R file in order to complete your first app. Log in to your rstudio server and see if you can create a new script under the same folder.
 
+# To upload file and save it in a folder on server, you need to assign permission of the folder to shiny server (user - shiny).
 
